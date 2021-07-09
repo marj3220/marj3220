@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=marj3220&theme=highcontrast&hide_border=true&background=000000)](https://git.io/streak-stats)
 <!--
 **marj3220/marj3220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
