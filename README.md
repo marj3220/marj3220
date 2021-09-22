@@ -2,9 +2,7 @@
 ## My Github Stats:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=marj3220&theme=highcontrast&hide_border=true&background=000000)](https://git.io/streak-stats)
-![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=marj3220&count_private=true&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marj3220&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **marj3220/marj3220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
